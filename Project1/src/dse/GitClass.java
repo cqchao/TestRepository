@@ -1,5 +1,5 @@
 package dse;
 
-public class GitClass1 {
+public class GitClass {
 /////
 }
